@@ -1,0 +1,36 @@
+Type d'oeuvre : 
+	- meuble
+	- céramique
+	- peinture
+	- orfèvrerie
+	- sculpture
+	- instrument
+	
+Ecole d'oeuvre : 
+	- art mycénien
+	- art roman
+	- art gothique
+	- classicisme
+	- impressionnisme
+		
+Epoque d'oeuvre : 
+	- moyen-age
+	- renaissance
+	- louis 14
+	- révolution
+	- antiquité
+	
+Oeuvres :
+	- Chlareus : céramique / art mycénien / antiquité --> http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mycenaean_stirrup_vase_Louvre_AO19201.jpg/220px-Mycenaean_stirrup_vase_Louvre_AO19201.jpg
+	- Alabastre : céramique / art mycénien / antiquité --> http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alabastron_Rhodes_Louvre_AM1032.jpg/220px-Alabastron_Rhodes_Louvre_AM1032.jpg
+	- Masque d'Agamemnon : orfèvrerie / art mycénien / antiquité --> http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MaskeAgamemnon.JPG/220px-MaskeAgamemnon.JPG
+	- Olifant : instrument / art roman / moyen-age --> http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Borradaile_Oliphant.jpg/220px-Borradaile_Oliphant.jpg
+	- Sainte Barbe : sculpture / art gothique / moyen-age --> http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Claux_de_Werve_St_Barbara.jpg/180px-Claux_de_Werve_St_Barbara.jpg
+	- Vierge à l'Enfant : sculpture / art gothique / moyen-age --> http://commons.wikimedia.org/wiki/File:Virgin_Child_Louvre_OA7271.jpg
+	- Miniature de Jeanne d'Arc : peinture / art gothique / moyen-age --> http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joan_of_arc_miniature_graded.jpg/180px-Joan_of_arc_miniature_graded.jpg
+	- Les Trois Grâces  : peinture / classicisme / renaissance --> http://commons.wikimedia.org/wiki/File:Raffael_010.jpg
+	- L'enlèvement des Sabines : peinture / classicisme / louis 14 --> http://commons.wikimedia.org/wiki/File:Poussin_RapeSabineLouvre.jpg
+	- David : peinture / classicisme / renaissance --> http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Donatello%2C_david_%28marmo%29_01.JPG/279px-Donatello%2C_david_%28marmo%29_01.JPG
+	- Impression soleil levant : peinture / impressionnisme / 20e siècle --> http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_Monet%2C_Impression%2C_soleil_levant%2C_1872.jpg/220px-Claude_Monet%2C_Impression%2C_soleil_levant%2C_1872.jpg
+	- Nymphéas : peinture / impressionnisme / 20e siècle --> http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/220px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg
+	
