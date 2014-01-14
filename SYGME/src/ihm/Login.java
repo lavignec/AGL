@@ -21,11 +21,13 @@ import org.eclipse.swt.events.MouseEvent;
 
 import bdd.BddAccess;
 import org.eclipse.swt.widgets.List;
+import org.eclipse.swt.events.MouseTrackAdapter;
 
 public class Login {
 	private static Text loginfield;
 	private static Text pwdfield;
-	private static BddAccess bdd = new BddAccess ();
+	public static BddAccess bdd = new BddAccess ();
+	public static Shell shell = new Shell();
 
 	/**
 	 * Launch the application.
@@ -34,7 +36,6 @@ public class Login {
 	 */
 	public static void main(String[] args) throws SQLException {
 		Display display = Display.getDefault();
-		Shell shell = new Shell();
 		shell.setSize(948, 512);
 		shell.setText("SYGIME");
 		    
@@ -59,6 +60,11 @@ public class Login {
 		    mdptext.setText("Mot de passe");
 		    
 		    Button btnNewButton_1 = new Button(composite, SWT.NONE);
+		    btnNewButton_1.addMouseTrackListener(new MouseTrackAdapter() {
+		    	@Override
+		    	public void mouseEnter(MouseEvent arg0) {
+		    	}
+		    });
 		    btnNewButton_1.addMouseListener(new MouseAdapter() {
 		    	@Override
 		    	public void mouseDown(MouseEvent arg0) {
