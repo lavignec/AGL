@@ -16,7 +16,7 @@ public class BddAccess {
 	private Connection connection;
 	public BddAccess ()
 	{}
-	
+
 
 	public void connect () {
 	url = "jdbc:postgresql://127.0.0.1:5432/SYGIME";

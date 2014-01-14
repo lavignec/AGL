@@ -37,7 +37,7 @@ public class Login {
 		Shell shell = new Shell();
 		shell.setSize(948, 512);
 		shell.setText("SYGIME");
-		    
+
 		
 		    final Composite composite = new Composite(shell, SWT.NONE);
 		    composite.setBounds(0, 0, 932, 473);
